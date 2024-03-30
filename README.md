@@ -1,0 +1,1 @@
+NADURL (Not a data url) is a simple website that takes a base64 encoded string after the "?" at the end of the url and writes that to the document. This was specifically created for the Nintendo 3DS web browser so that I could share pages to it via a QR code. It does not accept data url when reading a QR code (As with most QR readers), so I had to do it this way instead.
